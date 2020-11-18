@@ -1,3 +1,3 @@
 # wuhanclan
 
-Amoebas
+Amoebas programming contest
